@@ -2,7 +2,7 @@
   <img src="https://github.com/z3r0w3i/z3r0w3i/blob/main/who_am_I__!_Black.png" width="250">
 </div>
 
-# Hi there 👋, I'm zhai lian
+# Hi there 👋, I'm z3r0w3!
 
 ## 💬 Ask me about
 
