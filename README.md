@@ -2,7 +2,8 @@
   <img src="https://github.com/z3r0w3i/z3r0w3i/blob/main/who_am_I__!_Black.png" width="250">
 </div>
 
-# Chào chư vị đồng đạo 👋, ta là Kiếm Tu z3r0w3!
+# Chào chư vị đồng đạo 👋
+## PayPal: paypal.me/z3r0w3i
 
 > *"Nhất kiếm định giang sơn, nhất niệm trảm thiên ma."*
 > Thân là Kiếm Tu, ta lấy việc truy lùng ma đạo, phá giải cấm thuật và bảo vệ tông môn làm bản mệnh tu vi. 
