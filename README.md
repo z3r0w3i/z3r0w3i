@@ -1,86 +1,40 @@
 <div align="center">
-  <img src="https://github.com/z3r0w3i/z3r0w3i/blob/main/who_am_I__!_Black.png" width="250">
-</div>
+  <img src="https://github.com/z3r0w3i/z3r0w3i/blob/main/who_am_I__!_Black.png" width="220">
 
-# Chào chư vị đồng đạo 👋
-## PayPal: paypal.me/z3r0w3i
+  # Chào chư vị đồng đạo! 👋
+  
+  *“Nhất kiếm định giang sơn, nhất niệm trảm thiên ma.”*
 
-> *"Nhất kiếm định giang sơn, nhất niệm trảm thiên ma."*
-> Thân là Kiếm Tu, ta lấy việc truy lùng ma đạo, phá giải cấm thuật và bảo vệ tông môn làm bản mệnh tu vi. 
-
----
-
-## 💬 Thần Thông Bản Mệnh (Ask me about)
-
-<div align="left"> 
-<h3>🗡️ Tuyệt Thế Kiếm Tu | Tầm Ma Đoạt Mệnh & Hộ Pháp Tông Môn.</h3>
-
-<h4>🚧 Đang bế quan khổ luyện, mài giũa kiếm ý nhằm thực chiến trảm ma, bảo vệ đại trận của bổn phái một cách hoàn mỹ nhất.</h4>
-
-<h3>🎓 Đạo Quả Tu Vi (Roles & Responsibilities)</h3>
-
-<h3>Phá Giải Ma Công (Malware Analyst):</h3>
-<ul>
-  <li>🌱 Nghiên cứu ma công, tà thuật của ngoại đạo để thấu triệt:
-    <ul>
-      <li>🔸 Quỹ đạo vận hành và bản chất của ma khí (Malware behaviors)</li>
-      <li>🔸 Tàn tích tà đạo lưu lại — Vết máu, ma trận (IOCs)</li>
-      <li>🔸 Các tông phái, hệ phái tà ma ngoại đạo khác nhau</li>
-    </ul>
-  </li>
-  <li>🌱 Tự diễn luyện, mô phỏng ma trận dựa trên bí tịch **MITRE ATT&CK** để:
-    <ul>
-      <li>🔸 Thử thách độ kiên cố của hộ tông đại trận</li>
-      <li>🔸 Gia cố, nâng cao phòng tuyến của bổn môn lên tầm cao mới</li>
-    </ul>
-  </li>
-</ul>
-
-<h3>Tầm Ma Tu Sĩ & Hộ Pháp Tông Môn (Threat Hunter & Incident Responder):</h3>
-<ul>
-  <li>🌱 Trấn giữ Linh Nhãn (SOC), ngày đêm giám sát, phát hiện và lập tức rút kiếm chém chết ma đầu khi chúng vừa nhen nhóm xâm nhập infrastructure của tông môn.</li>
-  <li>🌱 Sử dụng Kiếm Thức (Threat Hunting) chủ động dò quét nhằm phát hiện:
-    <ul>
-      <li>🔸 Các vết nứt không gian, tà khí ẩn giấu (Threats)</li>
-      <li>🔸 Kẽ hở trong hộ tông đại trận (Vulnerabilities)</li>
-    </ul>
-  </li>
-  <li>🌱 Rèn đúc thần binh, trận pháp bổ trợ để:
-    <ul>
-      <li>🔸 Truy lùng tà ma hiệu quả hơn</li>
-      <li>🔸 Vá lại các lỗ hổng thiên địa</li>
-    </ul>
-  </li>
-  <li>🌱 Mỗi khi có biến cố, lập tức ngự kiếm xuất kích, trấn áp và khắc phục bằng cách:
-    <ul>
-      <li>🔸 Thi triển Truy Hồn Thuật phục dựng lại hiện trường (Digital Forensics)</li>
-      <li>🔸 Nhanh chóng lập kết giới cô lập, tiêu diệt nguồn ma khí</li>
-    </ul>
-  </li>
-  <li>🌱 Truyền đạo, hiến kế cho Trưởng lão hội về quy chuẩn phòng thủ để nâng cao thần thông chiến đấu cho toàn tông môn.</li>
-</ul>
+  [![PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://paypal.me/z3r0w3i)
 </div>
 
 ---
 
-## 📫 Phương thức đưa tin (How to reach me)
-- Phi kiếm truyền thư qua GitHub: [z3r0w3i](https://github.com/z3r0w3i)
+## 🗡️ Thần Thông Bản Mệnh (About Me)
 
-## ⚡ Kiếm Tâm Ngẫu Hứng (Fun fact)
-- Thiên địa xoay chuyển một ngày có 24 canh giờ? Không, đối với Kiếm Tu, thời gian chỉ tính bằng một cái chớp mắt khi rút kiếm!
+Thân là **Kiếm Tu** giới Cyber Security, ta lấy việc truy lùng ma đạo, phá giải cấm thuật và bảo vệ hộ tông đại trận làm bản mệnh tu vi.
 
-## 🔭 Pháp Bảo & Linh Khí đang rèn đúc (Projects)
+*   **Phá Giải Ma Công (Malware Analyst):** Nghiên cứu tà thuật, quỹ đạo vận hành của ma khí (**Malware Behaviors** & **IOCs**). Mô phỏng ma trận theo bí tịch **MITRE ATT&CK** để gia cố phòng tuyến bổn môn.
+*   **Tầm Ma & Hộ Pháp (Threat Hunter & IR):** Trấn giữ Linh Nhãn (**SOC**), chủ động dùng Kiếm Thức tìm vết nứt không gian (**Threats/Vulnerabilities**). Ngự kiếm xuất kích, thi triển Truy Hồn Thuật (**Digital Forensics**) để cô lập và tiêu diệt ma đầu khi có biến.
 
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=z3r0w3i&theme=dark">
-</div>
+---
 
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=z3r0w3i&theme=dark">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=z3r0w3i&theme=dark">
-</div>
+## 🔭 Pháp Bảo & Linh Khí (GitHub Stats)
 
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=z3r0w3i&theme=dark">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=z3r0w3i&theme=dark&utcOffset=8">
-</div>
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=z3r0w3i&theme=dark" width="400">
+</p>
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=z3r0w3i&theme=dark" width="350">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=z3r0w3i&theme=dark" width="350">
+</p>
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=z3r0w3i&theme=dark" width="350">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=z3r0w3i&theme=dark&utcOffset=8" width="350">
+</p>
+
+---
+
+## 📫 Phi Kiếm Truyền Thư (Contact)
+*   **GitHub:** [@z3r0w3i](https://github.com/z3r0w3i)
+*   *Kiếm Tâm Ngẫu Hứng:* Thời gian của Kiếm Tu không tính bằng canh giờ, mà tính bằng một cái chớp mắt khi rút kiếm!
